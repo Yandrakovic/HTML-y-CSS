@@ -1,48 +1,3 @@
-echo "# La utilidad de saber programar para un periodista" > Introducción
-ls
-pwd
-cd ..
-ls
-git status
-git add contenido
-git commit -m "Primera versión"
-git push -u origin master
-git brunch
-git branch
-git checkout -b calibraciones
-git branch
-echo "# La programación es una de las claves del periodismo" > notas.md
-ls
-git add notas.md
-git commit -m "Rama alternativa"
-git push -u origin calibraciones
-echo "## Nos permite avanzar mucho más rápido" >> notas.md
-git add notas.md
-git commit -m 
-git commit
-git clone https://github.com/Yandrakovic/El-periodista-como-programador.git
-git add notas.md
-git
-clear
-cd el-periodista-como-programador
-git add note.md
-git add notas.md
-git commit -m "Pequeño añadido"
-git push -u origin calibraciones
-git branch
-git checkout master
-git branch
-git merge calibraciones
-ls
-git push -u origin master
-echo "# Las hojas de estilo son la clave" > style.css
-ls
-git add style.css
-git commit -m "Primera versión del estilo"
-git push -u origin master
-echo "# Este es el comienzo de todo ## Creo yo" > index.html 
-ls
-git add index.html
 git commit -m "Primer guardado del índice" 
 git push -u origin master
 mkdir styles/
@@ -498,3 +453,48 @@ git add mi-app/repo
 git add prueba
 git commit -m "Llega"
 git push -u origin master
+git init
+git clone Yandrak@Dani ~
+$ git init
+Reinitialized existing Git repository in /home/Yandrak/.git/
+Yandrak@Dani ~
+$ git clone
+git clone https://github.com/Yandrakovic/practica.git
+git add html
+git commit -m "Envío 1"
+git push -u origin master
+git remote add origin https://github.com/Yandrakovic/practica.git
+git statuts
+git status
+git add/rm <file>.
+git add/rm .
+git add/rm Telephasic/right-sidebar.html
+git add/rm <Telephasic/right-sidebar.html>
+git add.
+git add .
+git commit -m "Envío"
+git push -u origin master
+git help
+git checkout
+ls
+git init
+git exit
+git --help
+git help-a
+git help -a
+git add .
+git commit -m "claro"
+git push -u origin master
+git add Datos
+git add Datos
+git add Datos.md
+git add.
+git add .
+git commit -m "s"
+git add mi-app/repo
+git commit -m "Arreglo"
+git add push -u origin master
+git push -u origina master
+git push -u origin master
+git status
+exit
