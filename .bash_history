@@ -1,40 +1,3 @@
-ls
-cd El-periodista-como-programador
-ls
-echo "la prueba de GitHub está en marcha" > README.md
-ls
-cat README.md
-git status
-git add README.md
-git status
-git commit -m "Primer envío"
-git commit -m "PRimer envío"
-gitgitggggiggiot vcopn
-git config --global user.email "danimonserrat@gmail.com"
-git config --global user.name "Yandrakovic"
-git commit -m "Envío inicial"
-git status
-git push -u origin master
-git push -u origin master
-ls readme
-ls readme.md
-pwd
-git status
-git add readme.md
-git commit m "Primera modificación"
-gir commit -m "Primera modificación"
-git commit -m "Primera modificación"
-git push -u origina master
-git push -u origin master
-git add readme.md
-git commit -m "Modificacion 1"
-git commit -m "Archivo modificado"
-git add README.md
-git commit -m "Archivo modificado"
-git push -u origin master
-mkdir contenido
-ls
-cd contenido/
 echo "# La utilidad de saber programar para un periodista" > Introducción
 ls
 pwd
@@ -498,3 +461,40 @@ git commit -m "s"
 git add,.
 git add.
 git add .
+git init
+git clone git://github.com/Yandrakovic/HTML-y-CSS.git
+ls
+ls HTML-y-CSS
+cd Html-Y-CSS
+LS
+ls
+git clone git://github.com/Yandrakovic/html.git
+cd ..
+git clone git://github.com/Yandrakovic/dani.git
+git add html
+git commit -m "primer envío"
+git remote add origin https://github.com/Yandrakovic/dani.git
+cd dani
+git add html
+git commit -m "Envío"
+git add readme.md
+git add readme
+git add readme
+git add html
+cd ..
+git add html
+git add html/editorial/index.html
+git commit -m "Envío"
+git status
+git add .
+git add html
+git commit -m "Envío"
+git push -u original master
+git push -u origin master
+git add prueba.md
+git add prueba
+git commit -m "Llega"
+git add mi-app/repo
+git add prueba
+git commit -m "Llega"
+git push -u origin master
