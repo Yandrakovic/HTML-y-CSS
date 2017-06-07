@@ -1,31 +1,3 @@
-git commit -m "Primer guardado del índice" 
-git push -u origin master
-mkdir styles/
-cd styles/
-echo "* Estilos" > Estilos
-cd ..
-git add styles/
-git commit -m "Ahí va por primera vez"
-gir push -u origin master
-git push -u origin master
-mkdir images/
-cd images/
-Echo "# Imágenes que complementan el proyecto" > images
-cd..
-cd ..
-git add images/
-git commit -m "Empezando con las imágenes 1"
-git push -u origin master
-Echo "## Derechos de autor" > copyright.md
-git add copyright.md
-git commit -m "Versión 1 derechos"
-git push -u origin master
-mkdir js/
-cd js/
-Echo "Volando estoy en la ciudad" > bueno
-cd ..
-git branch
-git add js/
 git commit -m "Paso 1"
 git push -u origin calibraciones
 git push -u origin master
@@ -497,4 +469,32 @@ git add push -u origin master
 git push -u origina master
 git push -u origin master
 git status
+exit
+git init
+git clone https://github.com/Yandrakovic/practica.git
+git add html
+git commit -m "Envío"
+git push -u origin master
+git push -u origin master
+git add html/
+git add html
+git add html
+git commit -m "definitivo"
+git add .
+git commit -m "defi"
+git push -u origin master
+exit
+git init
+git clone https://github.com/Yandrakovic/html.git
+git clone https://github.com/Yandrakovic/practica.git
+git clone
+git remote add origin https://github.com/Yandrakovic/prologo.git
+git clone git remote add origin https://github.com/Yandrakovic/prologo.git
+git clone https://github.com/Yandrakovic/prologo.git
+git add prologo/
+git commit -m "Buena"
+git push -u origin master
+git add prologo/
+git commit -m "definitiva"
+git push -u origin master
 exit
